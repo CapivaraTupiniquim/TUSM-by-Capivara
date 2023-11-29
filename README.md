@@ -167,6 +167,7 @@ Runelic (by DarkhaxDev)
 Applied Botanics Addon (by ramidzkh)
 ```
 
-Project on CurseForge: https://legacy.curseforge.com/minecraft/modpacks/the-ultimate-survival-modpack-by-costa
+Project on CurseForge: https://www.curseforge.com/minecraft/modpacks/the-ultimate-survival-modpack-by-costa
+Legacy Site: https://legacy.curseforge.com/minecraft/modpacks/the-ultimate-survival-modpack-by-costa
 
 [![Donate Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=473VQVGUB9HL8)
