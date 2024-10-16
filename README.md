@@ -2,7 +2,7 @@
 
 ![Modpack Logo 2](https://github.com/GabrielOsvair/TUSM-by-_Costa/assets/67530921/d2b7433f-0719-4c8e-a45f-38b4e4098bbd)
 
-# **TUSM by _Costa - The Ultimate Survival Modpack**
+# **TUSM by Capivara - The Ultimate Survival Modpack**
 
 This modpack focuses on **technology, systems and automation**. With it you can create the most incredible automations and factories in your world! It also has features to facilitate multiplayer play, such as security features for your base and chunk loading.
 
